@@ -1,0 +1,24 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    text-align: center
+}
+#container {
+    width: 970px;
+    padding: 15px;
+    text-align: center;
+}
+h1 {
+    margin: 15px;
+}
+input {
+    width: 10%;
+    margin: 15px auto;
+    display: block;
+}
+.popUp {
+    height: 200px;
+    width: 200px;
+    margin: 15px auto;
+    color: white;
+}
